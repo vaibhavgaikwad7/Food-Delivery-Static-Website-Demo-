@@ -1,0 +1,10 @@
+#navbar{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.box{
+    flex-flow: row wrap;
+   position: fixed;
+   top: 0%;
+}
